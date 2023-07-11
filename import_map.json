@@ -1,7 +1,7 @@
 {
-    "imports": {
-        "react" : "npm:@vitejs/plugin-react@^4.0.0",
-        "react-dom/client" :"npm:react-dom@^18.2.0/client",
-        "react-router-dom":"npm:react-router-dom@^6.4"
-    }
+  "imports": {
+    "react": "npm:@vitejs/plugin-react@^4.0.0",
+    "react-dom/client": "npm:react-dom@^18.2.0/client",
+    "react-router-dom": "npm:react-router-dom@^6.4"
+  }
 }
